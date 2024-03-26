@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: powderblue;
+}
+div.jumbotron p {
+    color:cadetblue
+}
+.col-md-6 a{
+    background-color: powderblue;
+    border-color: powderblue;
+}
